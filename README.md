@@ -1,4 +1,4 @@
-# SGFE
+# SGFE (Sistema Web de Gestão de Feiras e Eventos Escolares)
 
 Repositório destinado à matéria de práticas profissionais 3 no IFCE
 
